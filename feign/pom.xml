@@ -7,11 +7,15 @@
         <artifactId>eureka</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <groupId>com.consumer</groupId>
-    <artifactId>consumer</artifactId>
+    <groupId>com.feign</groupId>
+    <artifactId>feign</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>consumer</name>
     <description>Demo project for Spring Boot</description>
+<dependencies>
 
+
+
+</dependencies>
 
 </project>
